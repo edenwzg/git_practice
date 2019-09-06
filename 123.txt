@@ -2,3 +2,4 @@
 Creating a new branch is quick.
 new text
 new text
+new text
